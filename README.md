@@ -1,1 +1,3 @@
 # mvp_api
+
+MVP_Api, criado pela equipe Useal Labs Team cuja intenção é prototipar a ideia de uma Agência Virtual, com a junção do MVP_Admin e MVP_Front esse projeto fica completo, como se trata do primeiro projeto utilizando WEB API C# e uma conexão com banco de dados mySQL, é muito simples, pórem está sujeito a melhorias futuras, nele foi utilizando como ja foi citado, C# WEB API ASP.NET Core, banco de dados mySQL, para a integração foi utilizado o Migrations, adotando os métodos RESTfull para as requisições, possui telas de cadastro e acesso de usuários, nelas podem ser análisadas as UC`s do consumidor e faturas, todas feitas utilizando HTML, CSS e JS puros.
